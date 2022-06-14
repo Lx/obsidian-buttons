@@ -345,6 +345,7 @@ Note: swap count is reset if you close the note.
 ### Next version (not released yet)
 
 - Bugfix: buttons now render in Live Preview mode when Obsidian starts ([Lx])
+- Bugfix: improve reliability of `templater` option ([Lx])
 
 [Lx]: https://github.com/Lx
 
